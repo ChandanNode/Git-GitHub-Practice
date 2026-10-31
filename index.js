@@ -5,5 +5,4 @@ const user = {
   role: "student",
   city: "Patna"
 };
-
 console.log("User Details:", user);
