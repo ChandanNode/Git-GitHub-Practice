@@ -1,9 +1,10 @@
 const user = {
   id: 101,
   name: "Chandan Kumar",
-  age: 18,
-  role: "student",
-  city: "Patna"
+  age: 19,                  // Updated age
+  role: "developer",        // Updated role
+  city: "Patna",
+  country: "India"          // New field
 };
 
-console.log("User Details:", user);
+console.log("Updated User Details:", user);

@@ -1,9 +1,9 @@
 const users = [
   {
     id: 101,
-    name: "Rahul Kumar",
+    name: "Rahul Kumar",    // Updated name
     email: "rahul@example.com",
-    role: "moderator"
+    role: "moderator"       // Updated role
   },
   {
     id: 102,
@@ -19,7 +19,7 @@ const users = [
   },
   {
     id: 104,
-    name: "Neha",
+    name: "Neha",           // New user
     email: "neha@example.com",
     role: "user"
   }
